@@ -4,3 +4,9 @@ Assignment2-Markdown
 ##### My favourite location in the world is 'Switzerland'
 
 Switzerland is located in **Europe**.The amazing mountains, heaps of lakes and beautiful villages make for the most beautiful scenery in Switzerland. Each city in Switzerland has its own individuality, with different landscapes and their unique city life. I like it as it is known for the **sceneric** places.
+
+---
+
+## Directions to University
+1. Go to nearest international airport in Missouri State.
+2. Fly from Missouri to Switzerland in Europe.
