@@ -10,3 +10,7 @@ Switzerland is located in **Europe**.The amazing mountains, heaps of lakes and b
 ## Directions to University
 1. Go to nearest international airport in Missouri State.
 2. Fly from Missouri to Switzerland in Europe.
+- Plan and pack dresses in prior.
+- Carry a camp tent so that you can enjoy near the beach side.
+- A foldable Umbrella
+- A cozy and warm jacket
