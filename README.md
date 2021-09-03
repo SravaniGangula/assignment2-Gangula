@@ -14,3 +14,7 @@ Switzerland is located in **Europe**.The amazing mountains, heaps of lakes and b
 - Carry a camp tent so that you can enjoy near the beach side.
 - A foldable Umbrella
 - A cozy and warm jacket
+
+---
+
+[About me](https://github.com/SravaniGangula/assignment2-Gangula/blob/main/AboutMe.md)
