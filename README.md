@@ -18,3 +18,16 @@ Switzerland is located in **Europe**.The amazing mountains, heaps of lakes and b
 ---
 
 [About me](https://github.com/SravaniGangula/assignment2-Gangula/blob/main/AboutMe.md)
+
+---
+
+## Table Section
+
+The below table demonstrates my favourite food or drinks that i recommend to try. I am a foodie and would like to explore more places and food items.
+
+| Food/Drink | Location | Price |
+| --- | --- | ---: |
+| Chicken Biryani | Hyderabad(India) | 15$ |
+| Spicy Chicken Burger | Mooyah(NWMSU) | 8$ |
+| Irani Chai | Hyderabad(India) | 5$ |
+| Chicken Mandi | Hyderabad(India) | 15$ |
