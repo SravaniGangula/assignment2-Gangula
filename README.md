@@ -1,3 +1,5 @@
+Hi :wave:
+Currently learning github
 # assignment2-Gangula
 Assignment2-Markdown
 # Gangula Sravani Reddy
